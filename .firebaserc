@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "prod": "multiply-prod-21f4d",
+    "stg": "multiply-uat",
+    "dev": "multiply-3108e"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
